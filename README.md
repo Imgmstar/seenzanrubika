@@ -1,15 +1,4 @@
-## Nanymous
-
-> Seen Zan Robot For Rubika
-
-<p align="center">
-    <img src="https://s2.uupload.ir/files/img_20230208_141501_035_f545.jpg" alt="NanyRubika" width="128">
-    <br>
-    <b>Seen Zan Rubika</b>
-    <br>
-</p>
-
-###  Nanymous
+Seen Zan Robot For Rubika
 
 
 ### Install Bot (Termux)
