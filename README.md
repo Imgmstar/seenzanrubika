@@ -4,7 +4,7 @@
 ### Install Bot (Termux)
 
 ``` bash
-git clone https://githab.com/Nanymous/Nany_Seen.git
+git clone https://github.com/Imgmstar/seenzanrubika.git
 ```
 
 ### Open
